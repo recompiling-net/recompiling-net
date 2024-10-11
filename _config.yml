@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Recompiling.net
+description: "while(true): think; compile your thoughs;"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Recompiling.net"
+  email: ""
+  url: "https://recompiling-net.github.io/hacker-blog/"
 
 baseurl: /
 
